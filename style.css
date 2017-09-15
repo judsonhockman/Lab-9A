@@ -1,0 +1,9 @@
+.die {
+    width: 3em;
+    height: 3em;
+    font-size: 5em;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border: 2px;
+}
